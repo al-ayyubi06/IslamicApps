@@ -1,0 +1,24 @@
+<resources>
+	<string name="app_name">IslamicApps</string>
+	<string name="nama_produk">Nama Produk</string>
+	<string name="nomor_sertifikat">No Sertifikat</string>
+	<string name="produsen">Produsen</string>
+	<string name="berlaku_hingga">Berlaku Hingga</string>
+	<string name="cari_produk">Cari Produk</string>
+	<string name="compass_dial" translatable="false">Compass Dial</string>
+	<string name="compass_hands" translatable="false">Compass Hands</string>
+	<string name="action_settings">Pengaturan</string>
+	<string name="gps_settings_title">Pengaturan GPS</string>
+	<string name="gps_settings_text">GPS belum aktif, buka menu pengaturan?</string>
+	<string name="settings_button_cancel">Batal</string>
+	<string name="msg_permission_not_granted_yet">Izin akses lokasi belum diberikan</string>
+	<string name="settings_button_ok">Pengaturan</string>
+	<string name="msg_permission_granted">Akses lokasi tersedia, tekan tombol GPS sekarang.</string>
+	<string name="toast_permission_required">Aplikasi ini membutuhkan Access Location</string>
+	<string name="your_location">Lokasi anda:</string>
+	<string name="location_not_ready">Lokasi belum siap, silakan tekan tombol lagi.</string>
+	<string name="qibla_direction">Arah Ka\'bah:</string>
+	<string name="pls_enable_location">Silakan aktifkan Lokasi dan tekan tombol lagi.</string>
+	<string name="degree_from_north">derajat dari utara.</string>
+	<string name="using_last_location">menggunakan lokasi terakhir.</string>
+</resources>

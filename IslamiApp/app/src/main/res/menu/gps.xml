@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<menu xmlns:android="http://schemas.android.com/apk/res/android">-->
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:yourapp="http://schemas.android.com/apk/res-auto" >
+
+        <item android:id="@+id/gps"
+            android:icon="@drawable/gps_off"
+            android:title="GPS"
+            android:orderInCategory="100"
+            yourapp:showAsAction="always" />
+    <!--</menu>-->
+
+
+</menu>
